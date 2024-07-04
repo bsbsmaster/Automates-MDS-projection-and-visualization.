@@ -1,3 +1,3 @@
-# Automates-MDS-projection-and-visualization.
+ Automates-MDS-projection-and-visualization.
 chmod 777
-bash script.py 
+bash script.sh
